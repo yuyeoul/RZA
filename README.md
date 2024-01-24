@@ -80,3 +80,19 @@ git commit -m "Add: 스도쿠_Moon"
 <li> 일정 변경은 당일 0시 전까지 말해주기 </li>
 <li> To be continued... </li>
 </ol>
+
+### 4. 주차별 문제 정리
+## 1주차<br>
+- 공통: BOJ_2239_스도쿠<br>
+https://www.acmicpc.net/problem/2239
+- 성현: BOJ_14500_테트로미노<br>
+https://www.acmicpc.net/problem/14500
+- 유열: BOJ_14499_주사위 굴리기<br>
+https://www.acmicpc.net/problem/14499
+## 2주차<br>
+ - 공통: BOJ_17404_RGB거리 2<br>
+https://www.acmicpc.net/problem/17404
+- 성현: BOJ_2096_내려가기<br>
+https://www.acmicpc.net/problem/2096
+- 유열: BOJ_1309_동물원<br>
+https://www.acmicpc.net/problem/1309
