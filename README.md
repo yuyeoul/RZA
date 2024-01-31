@@ -96,7 +96,7 @@ https://www.acmicpc.net/problem/17404
 https://www.acmicpc.net/problem/2096
 - 유열: BOJ_1309_동물원<br>
 https://www.acmicpc.net/problem/1309
-## 2주차<br>
+## 3주차<br>
  - 공통: BOJ_1405_미친로봇<br>
 https://www.acmicpc.net/problem/1405
 - 성현: BOJ_1937_욕심쟁이 판다<br>
