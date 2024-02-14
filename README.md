@@ -82,31 +82,39 @@ git commit -m "Add: 스도쿠_Moon"
 </ol>
 
 ### 4. 주차별 문제 정리
-## 1주차<br>
+## 1주차 - 구현<br>
 - 공통: BOJ_2239_스도쿠<br>
 https://www.acmicpc.net/problem/2239
 - 성현: BOJ_14500_테트로미노<br>
 https://www.acmicpc.net/problem/14500
 - 유열: BOJ_14499_주사위 굴리기<br>
 https://www.acmicpc.net/problem/14499
-## 2주차<br>
+## 2주차 - DP<br>
 - 공통: BOJ_17404_RGB거리 2<br>
 https://www.acmicpc.net/problem/17404
 - 성현: BOJ_2096_내려가기<br>
 https://www.acmicpc.net/problem/2096
 - 유열: BOJ_1309_동물원<br>
 https://www.acmicpc.net/problem/1309
-## 3주차<br>
+## 3주차 - DFS<br>
 - 공통: BOJ_1405_미친로봇<br>
 https://www.acmicpc.net/problem/1405
 - 성현: BOJ_1937_욕심쟁이 판다<br>
 https://www.acmicpc.net/problem/1937
 - 유열: BOJ_2468_안전영역<br>
 https://www.acmicpc.net/problem/2468
-## 4주차<br>
- - 공통: BOJ_2573_빙산<br>
+## 4주차 - BFS<br>
+- 공통: BOJ_2573_빙산<br>
 https://www.acmicpc.net/problem/2573
 - 성현: BOJ_20058_마법사 상어와 파이어스톰<br>
 https://www.acmicpc.net/problem/20058
 - 유열: BOJ_4179_불!<br>
 https://www.acmicpc.net/problem/4179
+
+## 5주차 - 트리<br>
+- 공통: BOJ_2533_사회망 서비스(SNS)<br>
+https://www.acmicpc.net/problem/2533
+- 성현: BOJ_11437_LCA<br>
+https://www.acmicpc.net/problem/11437
+- 유열: BOJ_11725_트리의 부모 찾기<br>
+https://www.acmicpc.net/problem/11725
