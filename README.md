@@ -112,8 +112,8 @@ https://www.acmicpc.net/problem/20058
 https://www.acmicpc.net/problem/4179
 
 ## 5주차 - 트리<br>
-- 공통: BOJ_2533_사회망 서비스(SNS)<br>
-https://www.acmicpc.net/problem/2533
+- 공통: BOJ_14725_개미굴<br>
+https://www.acmicpc.net/problem/14725
 - 성현: BOJ_11437_LCA<br>
 https://www.acmicpc.net/problem/11437
 - 유열: BOJ_11725_트리의 부모 찾기<br>
