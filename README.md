@@ -118,3 +118,11 @@ https://www.acmicpc.net/problem/14725
 https://www.acmicpc.net/problem/11437
 - 유열: BOJ_11725_트리의 부모 찾기<br>
 https://www.acmicpc.net/problem/11725
+
+## 6주차 - 이분 탐색<br>
+- 공통: BOJ_12015_가장 긴 증가하는 부분 수열2<br>
+https://www.acmicpc.net/problem/12015
+- 성현: BOJ_17951_흩날리는 시험지 속에서 내 평점이 느껴진거야<br>
+https://www.acmicpc.net/problem/17951
+- 유열: BOJ_1939_중량제한<br>
+https://www.acmicpc.net/problem/1939
