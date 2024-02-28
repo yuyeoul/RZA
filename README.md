@@ -126,3 +126,11 @@ https://www.acmicpc.net/problem/12015
 https://www.acmicpc.net/problem/17951
 - 유열: BOJ_1939_중량제한<br>
 https://www.acmicpc.net/problem/1939
+
+## 7주차 - 다익스트라<br>
+- 공통: BOJ_4485_녹색 옷 입은 애가 젤다지?<br>
+https://www.acmicpc.net/problem/4485
+- 성현: BOJ_2665_미로 만들기<br>
+https://www.acmicpc.net/problem/2665
+- 유열: BOJ_10282_해킹<br>
+https://www.acmicpc.net/problem/10282
