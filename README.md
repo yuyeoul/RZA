@@ -134,3 +134,13 @@ https://www.acmicpc.net/problem/4485
 https://www.acmicpc.net/problem/2665
 - 유열: BOJ_10282_해킹<br>
 https://www.acmicpc.net/problem/10282
+
+## 8주차 - 스택, 큐, 덱<br>
+- 공통: BOJ_16120_PPAP<br>
+https://www.acmicpc.net/problem/16120
+- 공통: BOJ_11003_최솟값 찾기<br>
+https://www.acmicpc.net/problem/11003
+- 성현: BOJ_3078_좋은 친구<br>
+https://www.acmicpc.net/problem/3078
+- 유열: BOJ_3190_뱀<br>
+https://www.acmicpc.net/problem/3190
