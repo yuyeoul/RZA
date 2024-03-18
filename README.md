@@ -144,3 +144,12 @@ https://www.acmicpc.net/problem/11003
 https://www.acmicpc.net/problem/3078
 - 유열: BOJ_3190_뱀<br>
 https://www.acmicpc.net/problem/3190
+
+
+## 9주차 - 누적 합<br>
+- 공통: BOJ_2143_두 배열의 합<br>
+https://www.acmicpc.net/problem/2143
+- 성현: BOJ_25682_체스판 다시칠하기<br>
+https://www.acmicpc.net/problem/25682
+- 유열: BOJ_2616_소형기관차<br>
+https://www.acmicpc.net/problem/2616
